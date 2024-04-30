@@ -1,0 +1,1 @@
+This file presents the results of various occupations paired with language locations for a retrieval task. For more detailed information, please refer to the baseline paper available at: Baseline Paper: https://dl.acm.org/doi/abs/10.1145/3475731.3484956
